@@ -43,7 +43,7 @@ int main(int argc, char* argv[])
 	printf("%d", write_success);
 
 
-	BMPImage* crop_image = crop_bmp(x6_image, 1,1,4,4,&error);
+	BMPImage* crop_image = crop_bmp(x6_image, 300,200,200,200,&error);
 	if(error != NULL)
 	{
 		printf("%s", error);
