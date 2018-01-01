@@ -6,8 +6,8 @@
 int main(int argc, char* argv[])
 {
 
-	FILE* x6_file = fopen("6x6_24bit.bmp", "rb"); //open binary file for reading...
-	FILE* my_x6_file = fopen("my6x6_24bit.bmp", "wb"); //open binary file for writing..
+	FILE* x6_file = fopen("airplane.bmp", "rb"); //open binary file for reading...
+	FILE* my_x6_file = fopen("myairplane.bmp", "wb"); //open binary file for writing..
 	FILE* cropped_file = fopen("my_crop.bmp", "wb"); //create a file to write cropped image
 	
 	FILE* expected_file = fopen("expected.txt", "w");
