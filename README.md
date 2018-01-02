@@ -1,2 +1,4 @@
 # bmp_image
-Learn to read, write, and crop bmp images
+
+Brief Description of Project:
+Write code to read, write, and crop BMP image files. 
