@@ -23,4 +23,4 @@ output files:
 -my_crop.bmp
   -this file is the cropped image
   
-  
+ **For full description of project: https://engineering.purdue.edu/ece264/17au/hw/HW15
